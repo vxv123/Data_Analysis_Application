@@ -1,1 +1,4 @@
-The original data files are a group of multiple json objects, each one line contains one json object. But since I will store the dataset in the AWS S3 bucket first, then using Lambda function to move the data file into DynamoDB. Thus, I need to format the file into a list of multiple json objects by using Java. And meanwhile,since each file contains so much data, I will split the file into a bunch of sub files.
+The original data files are a group of multiple json objects, each one line contains one json object. 
+But since I will store the dataset in the AWS S3 bucket first, then using Lambda function to move the data file into DynamoDB. 
+Thus, I need to format the file into a list of multiple json objects by using Java. 
+And meanwhile,since each file contains so much data, I will split the file into a bunch of sub files.
