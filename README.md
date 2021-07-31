@@ -4,6 +4,7 @@
 It is a Web Data Analysis Application for Yelp.com's business review data.
 
 Background:
+
 (1). This personal project is based on a project of Database System course (COEN 280 Santa Clara Univerisity).
 
 (2). In 2013, Yelp.com has announced the “Yelp Dataset Challenge” and invited students to use this data in an innovative way and break ground in research. Students would query this dataset to extract useful information for local businesses and individual users.
