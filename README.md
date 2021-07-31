@@ -12,4 +12,4 @@ The Yelp data is available in JSON format. The original Yelp dataset includes 42
 
 (3). In orignal project, we used Oracle SQL to store dataset and used Java to process the data and display GUI. 
 
-(4).** But in this revised presonal project, I will do some changes and make it much real, the datasets will be stored in AWS DynamoDB and I will display graphic user interface on the website using js and process data using Java and Python.**
+(4). ** But in this revised presonal project, I will do some changes and make it much real, the datasets will be stored in AWS DynamoDB and I will display graphic user interface on the website using js and process data using Java and Python.**
